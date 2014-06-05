@@ -1,0 +1,83 @@
+﻿<Window x:Class="WMS_Project_TM_Store_IT.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="500" Width="500">
+    <Grid Background="Azure">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Data Edit" Foreground="Blue" Grid.Row="0" Grid.ColumnSpan="4" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Lucida Calligraphy" FontSize="20"/>
+        <Label Content="Branch" Foreground="Blue" Grid.Row="1" Grid.Column="0" Margin="0"/>
+        <Label Content="Owner"  Foreground="Blue" Grid.Row="1" Grid.Column="2" Margin="0"/>
+        <Label Content="Product Code" Foreground="Blue" Grid.Row="2" Grid.Column="0" Margin="0"/>
+        <Label Content="Colour" Foreground="Blue" Grid.Row="2" Grid.Column="2" Margin="0"/>
+        <Label Content="Size" Foreground="Blue" Grid.Row="3" Grid.Column="0" Margin="0"/>
+        <Label Content="Location" Foreground="Blue" Grid.Row="3" Grid.Column="2" Margin="0"/>
+        <Label Content="UOM" Foreground="Blue" Grid.Row="4" Grid.Column="0" Margin="0"/>
+        <Label Content="Quantity" Foreground="Blue" Grid.Row="4" Grid.Column="2" Margin="0"/>
+        <Label Content="Arrival Date" Foreground="Blue" Grid.Row="5" Grid.Column="0" Margin="0"/>
+        <Label Content="Batch Number" Foreground="Blue" Grid.Row="5" Grid.Column="2" Margin="0"/>
+        <Label Content="Expiry Date" Foreground="Blue" Grid.Row="6" Grid.Column="0" Margin="0"/>
+        <Label Content="Serial Number" Foreground="Blue" Grid.Row="6" Grid.Column="2" Margin="0"/>
+        <Label Content="Attribute 1" Foreground="Blue" Grid.Row="7" Grid.Column="0" Margin="0"/>
+        <Label Content="Attribute 2" Foreground="Blue" Grid.Row="7" Grid.Column="2" Margin="0"/>
+        <Label Content="Attribute 3" Foreground="Blue" Grid.Row="8" Grid.Column="0" Margin="0"/>
+        <Label Content="Attribute 4" Foreground="Blue" Grid.Row="8" Grid.Column="2" Margin="0"/>
+        <Label Content="Attribute 5" Foreground="Blue" Grid.Row="9" Grid.Column="0" Margin="0"/>
+        <Label Content="Stock Status" Foreground="Blue" Grid.Row="9" Grid.Column="2" Margin="0"/>
+        <Label Content="Reason" Foreground="Blue" Grid.Row="10" Grid.Column="0" Margin="0" Grid.RowSpan="7" VerticalAlignment="Center" FontSize="18"/>
+        <!--textbox input part-->
+        <TextBox Name="BrachField" IsReadOnly="True" Grid.Row="1" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="OwnerField" IsReadOnly="True" Grid.Row="1" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="PcodeField" IsReadOnly="True" Grid.Row="2" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="ColourField" IsReadOnly="True" Grid.Row="2" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="SizeField" IsReadOnly="True" Grid.Row="3" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="LocationField" IsReadOnly="True" Grid.Row="3" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="UOMField" IsReadOnly="True" Grid.Row="4" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="QTYField" IsReadOnly="True" Grid.Row="4" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="ArrivalField" IsReadOnly="True" Grid.Row="5" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="BatchField" IsReadOnly="True" Grid.Row="5" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="ExpiryField" IsReadOnly="True" Grid.Row="6" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="SNField" IsReadOnly="True" Grid.Row="6" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="Attr1Field" IsReadOnly="True" Grid.Row="7" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="Attr2Field" IsReadOnly="True" Grid.Row="7" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="Attr3Field" IsReadOnly="True" Grid.Row="8" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="Attr4Field" IsReadOnly="True" Grid.Row="8" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="Attr5Field" IsReadOnly="True" Grid.Row="9" Grid.Column="1" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <TextBox Name="StockField" IsReadOnly="True" Grid.Row="9" Grid.Column="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        <RadioButton Name="Reason1" Content="1. The first reason" Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="20,0,0,0" Grid.Row="10" VerticalAlignment="Center"/>
+        <RadioButton Name="Reason2" Content="2. The second reason" Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="20,0,0,0" Grid.Row="11" VerticalAlignment="Center"/>
+        <RadioButton Name="Reason3" Content="3. The third reason" Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="20,0,0,0" Grid.Row="12" VerticalAlignment="Center"/>
+        <RadioButton Name="Reason4" Content="4. The fourth reason" Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="20,0,0,0" Grid.Row="13" VerticalAlignment="Center"/>
+        <RadioButton Name="Reason5" Content="5. The fifth reason" Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="20,0,0,0" Grid.Row="14" VerticalAlignment="Center"/>
+        <RadioButton Name="Reason6" Content="6. Other Reason: (please write below)" Grid.Row="15" Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="20,0,0,0" VerticalAlignment="Center" Checked="Reason6_Checked"/>
+        <TextBox Name="ReasonField" IsReadOnly="True" Grid.Row="16" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource textStyle}" TextWrapping="Wrap" Margin="20,5,20,5" />
+        
+        <Button Name="SaveEdit" Content="Save" Grid.Row="17" Grid.Column="0"  Grid.ColumnSpan="2" Height="33" Width="100" Margin="0,10,100,0" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+        <Button Name="CancelEdit" Content="Cancel" Grid.Row="17" Grid.Column="2" Grid.ColumnSpan="2" Height="33" Width="100" Margin="100,10,0,0" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        
+    </Grid>
+</Window>

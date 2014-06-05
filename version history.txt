@@ -1,0 +1,75 @@
+V0.0
+basic login screen
+colour changes when textbox focuses
+regex check and verification on input
+small program icon
+reset and exit button function
+
+V0.1     changes since we last met
+Add database accessibility, show the information of legal user or ¡°no such user¡±
+Frames are located in centre and query result will be shown on a new frame while close the login screen
+Mainframe auto focuses on the first textbox.
+Add keyboard ¡°enter¡± listener
+
+V0.2
+New frame with all buttons on, maximize in the whole window
+    still need to discuss
+whether use images of different colour
+whether to fix the height and width of the tab header
+button drag is due to implement
+main contents and layout
+
+V0.3
+IE tab added, most bugs concerning IE tab are fixed
+scroll added for left navigation menu and keep the button square
+submenu added for in/outbound
+table layout added for inventory
+
+v0.4
+Add database connection and show SOH table in a table form under Inventory section
+page splitted, find further data on clicking on the next/previous buttons
+fixed mouse hover bug on submenus
+add style for button: background/foreground change when mouse hover on it
+    need to change for the next edition
+change table in datagrid
+abandon split pages and fit all data into a scroll table
+
+v0.5
+change splitted pages into datagrid
+highlight selected item, (right clicked also highlighted)
+add data modification frame
+add new table transHistory into database, and form connection
+any modification would have a record on transhistory database
+V0.6
+extra function to adjust attributes
+grey out fields that can't be edited
+show zero stock records button
+extra function create stock on hand record, transaction history required
+create partial class for DB handler
+still need to do
+-select multiple lines then change stock status, transaction history for each line
+
+V0.7
+multiple editing added, can change stock status
+add a stock status column in chart
+modified the transaction table
+
+V0.8
+bug fixed for stock creation and previous part
+several changes on database: new primary keys
+SOH: {BRANCH, OWNER, PROD, SIZE, COLOR,ARRIVAL DATE, LOCATION} as Location changes need to add entry for transaction table and some stocks only differ at location
+TRANS: recreated for ASC/DESC attributes so that new items can be easily checked
+Location changes done, but need more care on input verification on later stage
+new input dialog box would present foreground to input new location
+location not existed => create new
+existed => merge with others
+
+V0.8 u1
+filter for product and location
+
+V0.8 u2
+bug fix for change location in v0.8u1, root cause: added a key-down listener but not checked if it is ¡°key.enter¡±
+product and location filter down with a button to avoid burden of frequent database interactions
+change filter pattern from contains to start with
+bug fix for tab, phenomenon: close WIP then open WIP, it will not be added on the first place.
+

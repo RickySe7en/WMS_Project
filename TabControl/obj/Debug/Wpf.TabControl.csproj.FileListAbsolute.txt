@@ -1,0 +1,60 @@
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\bin\Debug\Wpf.TabControl.dll
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\bin\Debug\Wpf.TabControl.pdb
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.lref
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\Themes\Generic.baml
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\Wpf.TabControl.g.resources
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\Wpf.Controls.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\Wpf.TabControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\Wpf.TabControl.dll
+C:\Documents and Settings\Administrator\桌面\TabControl\TabControl\obj\Debug\Wpf.TabControl.pdb
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\bin\Debug\Wpf.TabControl.dll
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\bin\Debug\Wpf.TabControl.pdb
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\ResolveAssemblyReference.cache
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.cache
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.lref
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\Themes\Generic.baml
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.g.resources
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.Controls.Properties.Resources.resources
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.csproj.GenerateResource.Cache
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.dll
+D:\自己的经验总结\自己的经验总结\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.pdb
+D:\myProjects\C#_TabControl_forCSDN\TabControl\bin\Debug\Wpf.TabControl.dll
+D:\myProjects\C#_TabControl_forCSDN\TabControl\bin\Debug\Wpf.TabControl.pdb
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.csprojResolveAssemblyReference.cache
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.cache
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.lref
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Themes\Generic.baml
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.g.resources
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.Controls.Properties.Resources.resources
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.csproj.GenerateResource.Cache
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.dll
+D:\myProjects\C#_TabControl_forCSDN\TabControl\obj\Debug\Wpf.TabControl.pdb
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\bin\Debug\Wpf.TabControl.dll
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\bin\Debug\Wpf.TabControl.pdb
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.csprojResolveAssemblyReference.cache
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.cache
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.lref
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Themes\Generic.baml
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.g.resources
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.Controls.Properties.Resources.resources
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.csproj.GenerateResource.Cache
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.dll
+D:\myProjects\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.pdb
+E:\WMS Project\WMS Project TM Store IT\TabControl\bin\Debug\Wpf.TabControl.dll
+E:\WMS Project\WMS Project TM Store IT\TabControl\bin\Debug\Wpf.TabControl.pdb
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.csprojResolveAssemblyReference.cache
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.cache
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl_MarkupCompile.lref
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Themes\Generic.baml
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.g.resources
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.Controls.Properties.Resources.resources
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.csproj.GenerateResource.Cache
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.dll
+E:\WMS Project\WMS Project TM Store IT\TabControl\obj\Debug\Wpf.TabControl.pdb

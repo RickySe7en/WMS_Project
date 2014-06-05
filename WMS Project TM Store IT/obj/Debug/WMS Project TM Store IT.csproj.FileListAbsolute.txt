@@ -1,0 +1,48 @@
+c:\users\michael.scarlett\documents\visual studio 2012\Projects\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\WMS Project TM Store IT.exe.config
+C:\Users\TS\Google Drive\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\WMS Project TM Store IT.exe.config
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\WMS Project TM Store IT.exe.config
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\WMS Project TM Store IT.exe
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\WMS Project TM Store IT.pdb
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\Wpf.TabControl.dll
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\Wpf.TabControl.pdb
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.csprojResolveAssemblyReference.cache
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\MainWindow.baml
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\QueryResult.baml
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\App.baml
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\MainWindow.g.cs
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\QueryResult.g.cs
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\UserFrame.g.cs
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\App.g.cs
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT_MarkupCompile.cache
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT_MarkupCompile.lref
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\UserFrame.baml
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.g.resources
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS_Project_TM_Store_IT.Properties.Resources.resources
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.csproj.GenerateResource.Cache
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.exe
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.pdb
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\Window1.baml
+D:\myProjects\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\Window1.g.cs
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\WMS Project TM Store IT.exe.config
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.exe
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.pdb
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\WMS Project TM Store IT.exe
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\WMS Project TM Store IT.pdb
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\Wpf.TabControl.dll
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\bin\Debug\Wpf.TabControl.pdb
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.csprojResolveAssemblyReference.cache
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\MainWindow.baml
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\QueryResult.baml
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\Window1.baml
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\App.baml
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\MainWindow.g.cs
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\QueryResult.g.cs
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\UserFrame.g.cs
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\Window1.g.cs
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\App.g.cs
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT_MarkupCompile.cache
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT_MarkupCompile.lref
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\UserFrame.baml
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.g.resources
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS_Project_TM_Store_IT.Properties.Resources.resources
+E:\WMS Project\WMS Project TM Store IT\WMS Project TM Store IT\obj\Debug\WMS Project TM Store IT.csproj.GenerateResource.Cache

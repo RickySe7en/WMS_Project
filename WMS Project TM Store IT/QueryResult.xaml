@@ -1,0 +1,10 @@
+﻿<Window x:Class="WMS_Project_TM_Store_IT.QueryResult"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="QueryResult" Height="200" Width="350" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Margin="40,30,40,0" TextWrapping="Wrap" Name="Result" VerticalAlignment="Top" Height="80"/>
+        <Button Name="OK" Content="OK" Margin="120,128,120,0" VerticalAlignment="Top" Click="Button_Click_1" KeyDown="Button_KeyDown"/>
+
+    </Grid>
+</Window>
